@@ -327,15 +327,4 @@ been executed. Record actual outcomes after testing your implementation.
 ## Author
 
 **Saanvi Aggarwal**\
-Department of Computer Science and Engineering (Artificial
-Intelligence)\
-Chandigarh University
-
-------------------------------------------------------------------------
-
-## Academic Note
-
-This is a learning-oriented course project demonstrating Java OOP,
-collections, searching, validation, and file handling. Before publishing
-or submitting the repository, confirm that the README's file structure,
-commands, features, and data formats match the actual source code.
+UID - 25BAI10045
