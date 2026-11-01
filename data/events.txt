@@ -1,0 +1,5 @@
+101|Java Programming Workshop|15-12-2026|Seminar Hall|50
+102|AI Hackathon|20-12-2026|Innovation Lab|100
+103|Web Development Seminar|25-12-2026|Auditorium|75
+104|DSA|10-1-1990|SOLAN|200
+105|Cloud Computing Summit|15-05-2027|Tech Hub Hall A|2

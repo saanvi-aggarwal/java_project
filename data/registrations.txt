@@ -1,0 +1,4 @@
+REG1001|Saanvi|saanvi@gmail.com|8679400062|103|Cancelled
+REG1002|Aarav Sharma|aarav@test.com|9876543210|105|Cancelled
+REG1003|Rohan Verma|rohan@test.com|9876543211|105|Confirmed
+REG1004|Priya Singh|priya@test.com|9876543212|105|Confirmed
